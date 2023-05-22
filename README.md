@@ -3,7 +3,7 @@
 
 ### 2023-4-16
 
-增加了使用timeGAN对数据进行时序预测的代码，运行 timegan_data_store.ipynb生成数据，运行
+增加了使用timeGAN对数据进行时序预测的代码，运行 timegan_data_store.ipynb 生成数据，运行
 ```
 ./timegan-pytorch/run.sh
 ```
@@ -13,12 +13,12 @@
 
 #### 前端:
 ```
-	cd client
-	npm run serve
+cd client
+npm run serve
 ```
 
 #### 后端：
 ```
-	cd server
-	python main.py
+cd server
+python main.py
 ```
